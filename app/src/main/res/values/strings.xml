@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThirdAssignment_Lecture5</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">age</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="email">Email</string>
+    <string name="blank_Alert"></string>
+    <string name="right_input" />
+    <string name="username_Alert" />
+    <string name="email_Alert" />
+    <string name="age_Alert" />
+</resources>
